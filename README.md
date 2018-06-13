@@ -1,2 +1,4 @@
 # web_screenshot
-how to use selenium to get screenshot
+如何用selenium实现指定元素的截图
+
+网上搜了很多答案，但在一一尝试之后发现都没法实现，截下来的元素都不是想要的。后在还是在一位知乎大佬的答案中找到了解决方案
